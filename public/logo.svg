@@ -1,0 +1,17 @@
+<svg width="70" height="70" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for the S -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"></stop>
+      <stop offset="100%" stop-color="#3b82f6"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark Background -->
+  <rect width="100" height="100" rx="18" fill="#0f172a"></rect>
+
+  <!-- Stylish S -->
+  <text x="50%" y="55%" text-anchor="middle" font-size="58" font-family="Poppins, Arial, sans-serif" font-weight="bold" fill="url(#textGradient)" dy=".35em">
+    S
+  </text>
+</svg>
